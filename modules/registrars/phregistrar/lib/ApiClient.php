@@ -10,7 +10,7 @@ namespace WHMCS\Module\Registrar\Phregistrar;
  */
 class ApiClient
 {
-    const API_URL = 'https://redesign.pidginhost.com/api/';
+    const API_URL = 'https://www.pidginhost.com/api/';
 
     protected $results = array();
 
